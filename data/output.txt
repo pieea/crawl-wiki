@@ -1,0 +1,256 @@
+b01g0518b	가우디	Antoni Gaud&#237; (i Cornet)	안토니 가우디	23464
+b02g0050b	고흐	Vincent (Willem) van Gogh	빈센트 반 고흐	18649
+b21k2670a	켈러	Gottfried Keller	고트프리트 켈러	15740
+b02g0626b	공자	K'ungtzu		12249
+b06r3356a	리콕	Stephen (Butler) Leacock		12200
+b21k3623a	콜럼	Philip Howard Colomb		12120
+b01g0866b	간디	Mohandas Karamchand Gandhi	마하트마 간디	11799
+b11s3060a	샤갈	Marc Chagall	마르크 샤갈	10928
+b12s2730a	솔로모스	Dhion&#237;sios Komis Solom&#243;s		10640
+b05d2925a	딘	Silas Deane	사일러스 딘	10602
+b02g3479a	그라스	Günter (Wilhelm) Grass	귄터 그라스	10393
+b25h0849a	헵번	Katharine Hepburn	캐서린 헵번	10216
+b12s3160a	쇼팬	Kate Chopin	케이트 쇼팽	9976
+b03n4424a	노발리스	Novalis		9930
+b25h1613a	호킨슨	Helen Hokinson		9362
+b08m2298a	밀레	Jean-Fran&#231;ois Millet	장프랑수아 밀레	9231
+b03n2702a	나이팅게일	Florence Nightingale	플로렌스 나이팅게일	9036
+b22t2653a	테스피스	Thespis		8771
+b07m4407a	몽테	Philippe de Monte		8723
+b14a0754a	아든	John Arden	존 아든	7548
+b14a2261a	아인슈타인	Alfred Einstein	알베르트 아인슈타인	7511
+b04n0912a	뉴턴	Sir Charles Thomas Newton	찰스 토마스 뉴턴	7478
+b25h3903a	히토르프	Johann Wilhelm Hittorf		7130
+b06r1868a	록펠러	William Rockefeller		7074
+b12s2451a	소콜로프	Nahum Sokolow		6630
+b09b3579n8	보시	Umberto Bossi	움베르토 보시	6518
+b24h2819a	한노	Hanno		6331
+b09b2418a	베텔하임	Bruno Bettelheim	브루노 베텔하임	6220
+b08m1857a	미친스키	Tadeusz Mici&#324;ski		6212
+b07m3476a	모디세인	Bloke Modisane		6178
+b15a1709a	에디	Mary Baker Eddy	메리 베이커 에디	6150
+b21c0001b	츠빙글리	Huldrych Zwingli	울리히 츠빙글리	6101
+b25h1576a	호지킨	Sir Alan (Lloyd) Hodgkin	앨런 호지킨	5867
+b07m3872a	모차르	Mieczys&#322;aw Moczar		5853
+b07m2236a	맹부르	Louis Maimbourg		5782
+b21k1596a	칸트	Minna Canth		5778
+b22t3902a	트럼보	Dalton Trumbo	돌턴 트럼보	5724
+b14a1468a	아민	Idi Amin	이디 아민	5702
+b04d4063a	데주뇨프	Semyon Ivanov Dezhnyov		5653
+b22k1050a	클린트	Kaare Klint	카레 클린트	5573
+b04n1176a	니즈푸	Ni Chifu		5546
+b06r1312a	로베르티	Ercole (Grandi d'Antonio) de'Roberti		5428
+b23p0360a	팅크토리스	Johannes Tinctoris		5392
+b18j3209n9	장일남	張一男		5334
+b04d1696b	다윈	Charles (Robert) Darwin	찰스 다윈	5332
+b01g2437a	게릭	Lou Gehrig	루 게릭	5303
+b20c2880a	체호비치	Czechowicz Jozef		5219
+b09b0621a	배커스	Isaac Backus	이삭 배커스	5037
+b25h0964a	현장	Hsuantsang		5024
+b08m1096a	뭉크	Walter Heinrich Munk		4989
+b11s0119a	사마의	Ssuma I		4976
+b12s2044a	소도마	Il Sodoma		4929
+b13s2313a	시프	Jacob H(enry) Schiff	제이컵 시프	4910
+b23p0616a	파리나티	Paolo Farinati		4822
+b07m1301a	만데빌레	Bernard de Mandeville		4802
+b07m3417a	모네	Jean Monnet	장 모네	4784
+b04d3762a	덜로니	Thomas Deloney		4767
+b21k1247a	카이사르	Gaius Caesar		4761
+b22t4027a	트뤼도	Pierre Elliott Trudeau		4665
+b21k1007a	카사	Giovanni Della Casa		4629
+b18j3232a	장제	Chang ti		4618
+b07m3873a	모차르트	(Johann Georg) Leopold Mozart	레오폴트 모차르트	4596
+b04d3203a	대진	Tai Chen		4585
+b09b2378a	베케시	Georg von B&#233;k&#233;sy		4557
+b21k0424a	카날레하스	Jos&#233; Canalejas (y M&#233;ndez)		4540
+b25h0189a	허시	Alfred Day Hershey	앨프리드 허시	4520
+b07m2138a	맥심	Sir Hiram Stevens Maxim	하이럼 스티븐스 맥심	4318
+b13s0727a	스탈리	James Starley	제임스 스탈리	4293
+b17a3006n10	이기숙	李基淑		4283
+b06r3119a	리스트	(Georg) Friedrich List	프리드리히 리스트	4223
+b13s1305a	스피넬로	Aretino Spinello		4097
+b02g1535a	괴벨스	Paul Joseph Goebbels	요제프 괴벨스	4053
+b12s4349a	슈바베	Samuel Heinrich Schwabe		4043
+b10b3606a	비틀린	J&#243;zef Wittlin		4041
+b22t3680b	투키디데스	Thucydides		3994
+b08b2960a	바소프	Nikolay Gennadiyevich Basov		3985
+b07m3003a	멘델스존	Fanny Mendelssohn		3937
+b01g2449a	게바라	Che Guevara	체 게바라	3697
+b08b3385a	바하르	Mu&#7717;ammad Taq&#8145; Bah&#257;r		3688
+b06r0347a	레니에	Henri(-Fran&#231;ois-Joseph) de R&#233;gnier		3676
+b10b3077a	비바리니	Alvise Vivarini		3675
+b17a2198b	율리아누스	Julianus		3639
+b24h2232a	하이드	Sir Nicholas Hyde	니콜라스 하이드	3427
+b22t3270a	톨스토이	"Aleksey Nikolayevich, Graf Tolstoy"		3384
+b12s4319a	슈만	Clara Schumann	클라라 슈만	3361
+b22t2125a	탕현조	T'ang Hsientsu		3325
+b11s3902a	서클링	Sir John Suckling		3323
+b20c1555a	차이코프스키	Nikolay Vasilyevich Chaykovsky		3304
+b19j3607a	주오	L&#233;on Jouhaux		3284
+b22k1375b	킹	W(illiam) L(yon) Mackenzie King	윌리엄 라이언 매켄지 킹	3220
+b19j3733a	주하이르	Zuhayr ibn Abi Sulma Rabi'ah ibn Riyah al-Muzani		3218
+b25h0702a	헨더슨	Lawrence Joseph Henderson		3187
+b02g1557b	괴테	Johann Wolfgang von Goethe	요한 볼프강 폰 괴테	3156
+b23p0793a	파스빈더	Rainer Werner Fassbinder	라이너 베르너 파스빈더	3131
+b16a2364a	왕셴첸	Wang Hsiench'ien		3121
+b17a3352a	이반	Ivan Ilich Sergeyev		3108
+b25h0527a	헤밍	John Heminge		3072
+b14a2978b	안녹산	An Lushan		3052
+b12s3015n9	송하원	宋河原		3049
+b10b3577a	비토스	Wincenty Witos		3041
+b13s2169a	시지윅	Henry Sidgwick		3035
+b22t3271a	톨스토이	"Pyotr Andreyevich, Graf Tolstoy"		3034
+b06r2673a	르누아르	(Jean-Joseph-)&#201;tienne Lenoir		3006
+b06r1427a	로스비타	Hrosvitha		2903
+b01g0522a	가우스	Carl Friedrich Gauss	카를 프리드리히 가우스	2886
+b07m1333a	만리케	G&#243;mez Manrique		2850
+b05d1910a	두버넥	Frank Duveneck		2848
+b04d3214a	대처	Margaret (Hilda) Thatcher	마거릿 대처	2845
+b24p0272a	프로이트	Anna Freud	안나 프로이트	2836
+b01g1073a	갈릴레오	Galileo Galilei	갈릴레오 갈릴레이	2780
+b13s1151a	스팀슨	Henry L(ewis) Stimson		2724
+b02g2004n9	구봉서	具鳳書		2721
+b10s4219a	사도프스키	Prov Sadovsky		2696
+b12s3161a	쇼팽	Fr&#233;d&#233;ric(-Fran&#231;ois) Chopin		2686
+b24p1154a	피아	(Aim&#233;-)F&#233;lix Pyat		2678
+b24p0069a	프랭클린	Sir John Franklin	존 프랭클린	2654
+b23p3833a	푸쇠르	Henri Pousseur		2645
+b07m4172b	몬테베르디	Claudio Monteverdi	클라우디오 몬테베르디	2642
+b07m1024a	마크리누스	Marcus Opellius Macrinus		2625
+b10b3192a	비스	Johann Rudolf Wyss		2613
+b08b2434a	바고아스	Bagoas		2605
+b03g1747n9	김연아	金姸兒		2560
+b07m1226a	막시무스	Saint Maximus the Confessor		2559
+b17a1219n8	유누스	Muhammad Yunus	무함마드 유누스	2475
+b24h1973a	하먼	Martin Coles Harman	마틴 콜스 하먼	2435
+b10b2122a	브란팅	Karl Hjalmar Branting	얄마르 브란팅	2417
+b01g3528b	고갱	(Eug&#233;ne-Henri)Paul Gauguin	폴 고갱	2411
+b07m4437a	뫼리케	Eduard Friedrich M&#246;rike		2403
+b05r3924a	라흐너	Lachner Franz		2396
+b24h3259a	함풍제	Hsienfeng		2379
+b23p3940a	푸줄리	Mehmed bin S&#252;leyman Fuzuli		2355
+b08b3571n10	박양균	朴暘均		2335
+b09b2182a	베시	Charles E(dwin) Bessey		2307
+b15a1846a	에릭슨	John Ericsson		2302
+b22k1198a	키악사레스	Cyaxares		2291
+b03g1493n11	김근태	金槿泰		2289
+b17a1416a	유바라	Filippo Juvarra	필리포 유바라	2280
+b17a3645n9	이세득	李世得		2269
+b05d0594a	도일	Richard Doyle	리차드 도일	2257
+b03n3922b	네로	Nero		2231
+b05d2395a	드베이어	Peter (Joseph William) Debye	피터 디바이	2217
+b25h0364a	헤게시포스	Hegesippos		2214
+b24p0270a	프로이스	Hugo Preuss		2212
+b21k1548a	칸델라	Felix (Outeri&#241;o) Candela		2199
+b06r2264a	루스타벨리	Shota Rustaveli	쇼타 루스타벨리	2190
+b23p0819a	파스토어	"Ludwig Pastor, Freiherr von Campersfelden"		2189
+b21k1483a	카프레	Khafre		2188
+b06r1718a	로크	Alain (LeRoy) Locke	알랭 르로이 로크	2186
+b05r3815a	라티니나	Larisa Semyonovna Latynina		2127
+b11s0041a	사르카르	Sir Jadunath Sarkar		2114
+b15a2909a	여본중	Lu Penchung		2111
+b24p1343a	피카비아	Francis Picabia		2108
+b15a3694a	영	Whitney M(oore) Young Jr.	휘트니 영	2087
+b05d2215a	드가	(Hilaire-Germain-) Edgar Degas	에드가 드가	2073
+b08m0272a	무소르크스키	Modest (Petrovich) Musorgsky		2052
+b07m1098a	마티손	Friedrich von Matthisson		2044
+b07m4107a	몬	Matthias Georg Monn		2041
+b01g1682b	강희제	K'ang-hsi		2021
+b22t1422a	타고르	Devendranath Tagore		1977
+b09b1821b	베로네세	Paolo Veronese	파올로 베로네세	1955
+b04d2235a	달리	(John) Augustin Daly	아우구스틴 달리	1954
+b22k1238b	키츠	John Keats	존 키츠	1953
+b09b3389a	보리	Bj&#246;rn (Rune) Borg		1948
+b19j1045a	정덕제	Chengte		1939
+b06r2235b	루소	Jean-Jacques Rousseau	장자크 루소	1926
+b10b3433a	비저	Friedrich von Wieser	프리드리히 폰 비저	1920
+b21k1097a	카스트렌	Matthias Alexander Castr&#233;n		1887
+b05r3544a	라이디	Joseph Leidy	조지프 레이디	1854
+b22t2000b	탈레랑	Charles-Maurice de Talleyrand(-P&#233;rigord)		1854
+b11s3056a	샤가리	Alhaji Shehu(Usman Aliyu) Shagari		1851
+b22t3950a	트로구스	Pompeius Trogus		1837
+b24p0342a	프뢰딩	Gustaf Fr&#246;ding		1833
+b25h1869b	홈스	"Oliver Wendell Holmes, Jr."		1824
+b16a2168a	와일더	Thornton (Niven) Wilder	손턴 와일더	1816
+b12s1509a	세자르	Cesar	세사르	1790
+b21k3351a	코페	Fran&#231;ois Copp&#233;e		1784
+b20c2163a	천보다	Ch'en Pota		1777
+b25h0540a	헤비사이드	Oliver Heaviside	올리버 헤비사이드	1760
+b01g2186b	건륭제	Ch'ienlung		1754
+b18j3294a	장췬	Chang Ch'un		1741
+b11s3660a	서스턴	Lorrin A(ndrews) Thurston		1740
+b05d2200a	듀이	Thomas E(dmund) Dewey	토마스 듀이	1738
+b07m0625a	마오둔	Mao Dun		1730
+b06r2233a	루소	Jean-Baptiste Rousseau	장-밥티스트 루소	1722
+b14a0507a	아그리파	Agrippa		1718
+b25h3184b	후설	Edmund Husserl	에드문트 후설	1705
+b21k1384a	카터	Elizabeth Carter		1701
+b06r0956a	렐레벨	Joachim Lelewel		1695
+b03n4107a	네페르티티	Nefertiti		1687
+b02g3818a	그리그	Edvard (Hagerup) Grieg	에드바르 그리그	1674
+b19j1995a	제퍼슨	Arthur Stanley Jefferson	아서 스탠리 제퍼슨	1659
+b05r3599a	라이트	Richard Wright	리처드 라이트	1648
+b14a1755a	아서	Chester A(lan) Arthur	체스터 A. 아서	1645
+b17a2987a	이글레시아스	Pablo Iglesias	파블로 이글레시아스	1632
+b21k0903b	카몽스	Lu&#237;s (Vaz) de Cam&#245;es		1632
+b01g4049b	고야	Francisco (Jos&#233;) de Goya (y Lucientes)		1625
+b03g1511n10	김남주	金南柱		1621
+b17a3678b	이소크라테스	Isocrates		1606
+b25h1232n10	호나우지뉴	Ronaldinho		1596
+b13s1640a	시누헤	Sinuhe		1594
+b15a1888a	에버렛	Edward Everett	에드워드 에버렛	1586
+b15a0505b	앵그르	Jean-Auguste-Dominique Ingres	장 오귀스트 도미니크 앵그르	1578
+b06r0072a	랭뮤어	Irving Langmuir	어빙 랭뮤어	1565
+b25h3504a	흄	(Andrew) Hamilton Hume	해밀턴 흄	1560
+b21k0473a	카다르	J&#257;nos K&#257;d&#257;r		1554
+b21k2562a	케인스	Richard Darwin Keynes		1551
+b22k0704a	클라게스	Ludwig Klages		1539
+b16a0396n14	오기마치	Ogimachi		1534
+b09b1917a	베르데	(Jos&#233; Joaquim) Ces&#225;rio Verde		1528
+b23p2101a	페르디난트(1세)	Ferdinand(I)		1527
+b07m2864a	메추	Gabriel Metsu		1525
+b05d0528a	도안	Tao-an		1517
+b14a2253a	아이힝거	Gregor Aichinger		1514
+b19j2743a	조제프	P&#233;re Joseph		1506
+b23p0687n8	파묵	Orhan Pamuk	오르한 파무크	1505
+b25h1354a	호머	Winslow Homer	윈슬로우 호머	1493
+b12s3131a	쇼송	Ernest (Am&#233;d&#233;e) Chausson		1489
+b17a0810a	위슬러	Clark Wissler	클라크 위슬러	1487
+b04d2161a	단콰	Joseph Kwame Kyeretwi Danquah		1476
+b24h2890n9	한봉덕	韓奉德		1472
+b05d2752a	디오게네스	Diogenes of Apollonia		1468
+b21k3515a	콘스탄티누스(2세)	Constantinus(Ⅱ)		1463
+b22t3784b	튀르고	Anne-Robert-Jacques Turgot	안 로베르 자크 튀르고	1459
+b12s1104a	세네카	Lucius Annaeus Seneca	루키우스 안나이우스 세네카	1458
+b04d1687a	다울런드	John Dowland	존 다울런드	1437
+b07m0854a	마젤	Lorin (Varencove) Maazel	로린 마젤	1437
+b06r1476a	로슬랭	Roscelin		1436
+b01g3830a	고르바초프	Mikhail Sergeyevich Gorbachev	미하일 고르바초프	1435
+b06r1770a	로테르	Lothaire		1428
+b21k2621a	케페슈	Gyorgy Kepes		1426
+b03g1867n10	김일	金一	김일 (1910년)	1421
+b06r1441a	로스차일드	"Lionel Walter Rothschild, 2nd Baron Rothschild (of Tring)"		1420
+b05d2815a	디유돈네	Jean-Alexandre Dieudonn&#233;		1419
+b12s2076a	소렐	Georges(-Eug&#232;ne) Sorel		1414
+b14s0318a	쑤흐바타르	Damdiny S&#252;hbaatar		1407
+b07m1555a	말랄라스	John Malalas		1404
+b06r2508a	루한	Mabel (Ganson) Dodge Luhan		1397
+b12s1196a	세르반도니	Giovanni Nicolo Servandoni		1393
+b07m2644a	메리	Mary of Teck	테크의 메리	1386
+b11s3600a	서비스	Elman Rogers Service		1376
+b09b3870a	보트야니	"Lajos, Gr&#243;f Batthy&#225;ny"		1367
+b09b3765a	보즌켓	Bernard Bosanquet		1364
+b15a2577a	엔틀리허	Stephan (Ladislaus) Endlicher		1364
+b05d2214a	듈레이니	Daniel Dulany		1362
+b23p0718a	파브르	(Gabriel-Claude-) Jules Favre		1362
+b21k1456a	카펠라	Martianus Minneus Felix Capella		1358
+b09b2532a	벤첼	Wencel		1355
+b12s4354a	슈바이처	Albert Schweitzer	알베르트 슈바이처	1347
+b19j2075a	젱킨스	Roy (Harris) Jenkins	로이 젱킨스	1342
+b17a3648a	이세민	Li Shihmin		1335
+b24p1372a	피크	August Fick		1335
+b22t4126a	트와크트먼	John Henry Twachtman		1323
+b24p0325a	프론토	Marcus Cornelius Fronto		1312
+b25h3075a	효장문	Hsiaochuangwen		1308
+b09b2089a	베버	Carl Maria von Weber	카를 마리아 폰 베버	1304
+b06r3058a	리빙스턴	Robert Livingston	로버트 리빙스턴	1302
