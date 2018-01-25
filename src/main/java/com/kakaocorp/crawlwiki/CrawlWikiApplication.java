@@ -46,7 +46,7 @@ public class CrawlWikiApplication {
             if(!StringUtils.isEmpty(line)) {
                 String values[] = line.split("\t");
                 if(values.length == 5) {
-                    if(!values[2].contains("&#") && StringUtils.isEmpty(values[3])) {
+                    if(!values[2].contains("&#") && values[2].matches(".*[a-zA-Z]+.*") && StringUtils.isEmpty(values[3])) {
                         System.out.println("fetch : " + line);
                         Map<String, String> kowikiMap = getContents(String.format(kowiki, cleanText(values[2])));
                         Map<String, String> enwikiMap = getContents(String.format(enwiki, cleanText(values[2])));
